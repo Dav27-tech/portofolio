@@ -66,19 +66,8 @@ thumb
 sketch
 
 ### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
+# Ignore generated build output, not application source files.
+/dist/
 
 ### Windows ###
 # Windows thumbnail cache files
